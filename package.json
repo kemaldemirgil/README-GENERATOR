@@ -1,0 +1,23 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "This is a README generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemaldemirgil/README-GENERATOR.git"
+  },
+  "author": "kemal demirgil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kemaldemirgil/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/kemaldemirgil/README-GENERATOR#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0"
+  }
+}

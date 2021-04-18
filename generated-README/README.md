@@ -1,12 +1,12 @@
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
-  # 
+  ![License: Mozilla](https://img.shields.io/badge/License-Mozilla%202.0-green.svg)
+  # boss
 
   ## 📖Description
   
   ---
   
-  
+  leader
 
   ## 📜Table of Contents
 
@@ -20,29 +20,29 @@
 
 
   ## 🔧Installation
-  
+  jump th clock
 
   ## 🚀Usage
-  
+  2 % of water 
 
   ## 🤝Contributing
-  
+  asdasd
 
   ## 📊Testing
-  
+  sada
 
   ## ❓Questions
-  > 
+  > asd
   
-  👤** **
+  👤**senih**
 
-  - Email:  
-  - Github: [@ ](https://github.com/ )
+  - Email: asd
+  - Github: [@asd](https://github.com/asd)
 
   ## 📝License
   
   ---
   
-  Copyright ©  . All rights reserved.  Licensed under the [MIT](https://github.com/ / /blob/main/LICENSE) license.
+  Copyright © senih. All rights reserved.  Licensed under the [Mozilla 2.0](https://github.com/asd/asd/blob/main/LICENSE) license.
   
   
