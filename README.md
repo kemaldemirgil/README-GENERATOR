@@ -1,12 +1,12 @@
-
-  ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
-  # 
+  ![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/README-GENERATOR?color=yellow&label=JavaScript&logo=javascript)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/README-GENERATOR?label=Last%20Commit&logo=github&logoColor=green)
+  ![GitHub contributors](https://img.shields.io/github/contributors/kemaldemirgil/README-GENERATOR?color=cyan&label=Contributors&logo=github&logoColor=cyan)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
+  # README GENERATOR
 
   ## 📖Description
-  
-  ---
-  
   This is a simple README generator created by using the `Inquirer` & `fs` modules. The program runs on `Node.js` and it was created to make life a bit simpler by generating README files without worrying about syntactical problems that might occur.
+  
   ## ✨Demo
   ![readme-generator-demo](images/README.gif)
   #### Generated README:
@@ -55,9 +55,6 @@
   - Github: [@kemaldemirgil](https://github.com/kemaldemirgil)
 
   ## 📝License
-  
-  ---
-  
   Copyright © Kemal Demirgil. All rights reserved. Licensed under the [MIT](https://github.com/kemaldemirgil/README-GENERATOR/blob/main/LICENSE) license.
   
   
