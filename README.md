@@ -41,10 +41,10 @@
   And the `README.md` file will be generated in the `generated-README` directory.
 
   ## 🤝Contributing
-  This is my first application I've created using `Node.js` and I'm hoping to use it as my first *Open Source* project. Since, I'm still very new to creating *Open Source* projects, I appreciate every contribution and input anyone might have. Pull requests and any other issues are most welcomed, I'm looking to colaborate with creating tests for this application.
+  This is my first application I've created using `Node.js` and I'm hoping to use it as my first *Open Source* project. Since, I'm still very new to creating *Open Source* projects, I appreciate every contribution and input anyone might have. Pull requests and any other issues are most welcomed, I'm looking to collaborate with creating tests for this application.
 
   ## 📊Testing
-  Unfortunately, as of now, there are no available test for this application. I'm looking forward to create some in the future.
+  Unfortunately, as of now, there are no available tests for this application. I'm looking forward to creating some in the future.
 
   ## ❓Questions
   > Please contact me via Email, I am available anytime to answer any questions there might be.
