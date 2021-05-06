@@ -1,6 +1,6 @@
-  ![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/README-GENERATOR?color=yellow&label=JavaScript&logo=javascript)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/README-GENERATOR?label=Last%20Commit&logo=github&logoColor=green)
-  ![GitHub contributors](https://img.shields.io/github/contributors/kemaldemirgil/README-GENERATOR?color=cyan&label=Contributors&logo=github&logoColor=cyan)
+  ![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/quicklyREADME?color=yellow&label=JavaScript&logo=javascript)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/kemaldemirgil/quicklyREADME?label=Last%20Commit&logo=github&logoColor=green)
+  ![GitHub contributors](https://img.shields.io/github/contributors/kemaldemirgil/quicklyREADME?color=cyan&label=Contributors&logo=github&logoColor=cyan)
   ![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
   # README GENERATOR
 
@@ -55,6 +55,6 @@
   - Github: [@kemaldemirgil](https://github.com/kemaldemirgil)
 
   ## 📝License
-  Copyright © Kemal Demirgil. All rights reserved. Licensed under the [MIT](https://github.com/kemaldemirgil/README-GENERATOR/blob/main/LICENSE) license.
+  Copyright © Kemal Demirgil. All rights reserved. Licensed under the [MIT](https://github.com/kemaldemirgil/quicklyREADME/blob/main/LICENSE) license.
   
   
