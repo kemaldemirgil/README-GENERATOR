@@ -1,12 +1,12 @@
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)
-  # README GENERATOR
+  ![License: GNU Affero](https://img.shields.io/badge/License-GNU%20Affero%203.0-green.svg)
+  # my title
 
   ## 📖Description
   
   ---
   
-  This is a simple README generator created to make life a bit easier.
+  asdasd
 
   ## 📜Table of Contents
 
@@ -20,19 +20,19 @@
 
 
   ## 🔧Installation
-  Please run npm install to get the dependencies, then simply run node index.js to execute the program
+  asdasd
 
   ## 🚀Usage
-  Please answer all the questions to generate the README
+  asdasd
 
   ## 🤝Contributing
-  Please create a pull request or simply contact me for any questions.
+  aasdasd
 
   ## 📊Testing
-  There are no tests for this repository for now.
+  asdaqwe
 
   ## ❓Questions
-  > For any questions please contact me through my Email.
+  > zxxcz
   
   👤**Kemal Demirgil**
 
@@ -43,6 +43,6 @@
   
   ---
   
-  Copyright © Kemal Demirgil. All rights reserved.  Licensed under the [MIT](https://github.com/kemaldemirgil/README-GENERATOR/blob/main/LICENSE) license.
+  Copyright © Kemal Demirgil. All rights reserved.  Licensed under the [GNU Affero v3.0](https://github.com/kemaldemirgil/README-GENERATOR/blob/main/LICENSE) license.
   
   
